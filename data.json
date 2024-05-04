@@ -1,0 +1,24 @@
+{
+   "data":[
+      {
+         "timestamp":"2024-05-03T12:00:00",
+         "temperature":25.5,
+         "humidity":60.2
+      },
+      {
+         "timestamp":"2024-05-03T12:15:00",
+         "temperature":26.0,
+         "humidity":59.8
+      },
+      {
+         "timestamp":"2024-05-03T12:30:00",
+         "temperature":25.8,
+         "humidity":58.5
+      },
+      {
+         "timestamp":"2024-05-03T12:45:00",
+         "temperature":25.6,
+         "humidity":57.9
+      }
+   ]
+}

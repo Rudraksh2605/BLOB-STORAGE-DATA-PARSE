@@ -1,0 +1,352 @@
+[
+	{
+		"temperature": 25.16569878611072,
+		"humidity": 68.45120832901736,
+		"EventProcessedUtcTime": "2024-05-03T17:04:04.5405295Z",
+		"PartitionId": 1,
+		"EventEnqueuedUtcTime": "2024-05-03T17:03:19.2750000Z",
+		"IoTHub": {
+			"MessageId": null,
+			"CorrelationId": null,
+			"ConnectionDeviceId": "Iot-Raspberry",
+			"ConnectionDeviceGenerationId": "638500895488355425",
+			"EnqueuedTime": "2024-05-03T17:03:19.1870000Z"
+		}
+	},
+	{
+		"temperature": 21.15613989972674,
+		"humidity": 76.20094296918381,
+		"EventProcessedUtcTime": "2024-05-03T17:04:04.5931896Z",
+		"PartitionId": 1,
+		"EventEnqueuedUtcTime": "2024-05-03T17:03:21.6340000Z",
+		"IoTHub": {
+			"MessageId": null,
+			"CorrelationId": null,
+			"ConnectionDeviceId": "Iot-Raspberry",
+			"ConnectionDeviceGenerationId": "638500895488355425",
+			"EnqueuedTime": "2024-05-03T17:03:21.5590000Z"
+		}
+	},
+	{
+		"temperature": 28.591707079432197,
+		"humidity": 61.468089394029676,
+		"EventProcessedUtcTime": "2024-05-03T17:04:04.5945139Z",
+		"PartitionId": 1,
+		"EventEnqueuedUtcTime": "2024-05-03T17:03:23.2120000Z",
+		"IoTHub": {
+			"MessageId": null,
+			"CorrelationId": null,
+			"ConnectionDeviceId": "Iot-Raspberry",
+			"ConnectionDeviceGenerationId": "638500895488355425",
+			"EnqueuedTime": "2024-05-03T17:03:23.1240000Z"
+		}
+	},
+	{
+		"temperature": 27.646487042424184,
+		"humidity": 74.16492815012833,
+		"EventProcessedUtcTime": "2024-05-03T17:04:04.5945993Z",
+		"PartitionId": 1,
+		"EventEnqueuedUtcTime": "2024-05-03T17:03:25.2120000Z",
+		"IoTHub": {
+			"MessageId": null,
+			"CorrelationId": null,
+			"ConnectionDeviceId": "Iot-Raspberry",
+			"ConnectionDeviceGenerationId": "638500895488355425",
+			"EnqueuedTime": "2024-05-03T17:03:25.1320000Z"
+		}
+	},
+	{
+		"temperature": 25.973093708456506,
+		"humidity": 69.86768462300391,
+		"EventProcessedUtcTime": "2024-05-03T17:04:04.5946334Z",
+		"PartitionId": 1,
+		"EventEnqueuedUtcTime": "2024-05-03T17:03:27.9310000Z",
+		"IoTHub": {
+			"MessageId": null,
+			"CorrelationId": null,
+			"ConnectionDeviceId": "Iot-Raspberry",
+			"ConnectionDeviceGenerationId": "638500895488355425",
+			"EnqueuedTime": "2024-05-03T17:03:27.8470000Z"
+		}
+	},
+	{
+		"temperature": 30.296918834270773,
+		"humidity": 62.98558862592642,
+		"EventProcessedUtcTime": "2024-05-03T17:04:04.5946645Z",
+		"PartitionId": 1,
+		"EventEnqueuedUtcTime": "2024-05-03T17:03:30.2280000Z",
+		"IoTHub": {
+			"MessageId": null,
+			"CorrelationId": null,
+			"ConnectionDeviceId": "Iot-Raspberry",
+			"ConnectionDeviceGenerationId": "638500895488355425",
+			"EnqueuedTime": "2024-05-03T17:03:30.1460000Z"
+		}
+	},
+	{
+		"temperature": 29.64321114305028,
+		"humidity": 79.78252402189557,
+		"EventProcessedUtcTime": "2024-05-03T17:04:04.5947028Z",
+		"PartitionId": 1,
+		"EventEnqueuedUtcTime": "2024-05-03T17:03:31.3840000Z",
+		"IoTHub": {
+			"MessageId": null,
+			"CorrelationId": null,
+			"ConnectionDeviceId": "Iot-Raspberry",
+			"ConnectionDeviceGenerationId": "638500895488355425",
+			"EnqueuedTime": "2024-05-03T17:03:31.2950000Z"
+		}
+	},
+	{
+		"temperature": 21.834275617513608,
+		"humidity": 62.19129911491142,
+		"EventProcessedUtcTime": "2024-05-03T17:04:04.5947331Z",
+		"PartitionId": 1,
+		"EventEnqueuedUtcTime": "2024-05-03T17:03:33.9150000Z",
+		"IoTHub": {
+			"MessageId": null,
+			"CorrelationId": null,
+			"ConnectionDeviceId": "Iot-Raspberry",
+			"ConnectionDeviceGenerationId": "638500895488355425",
+			"EnqueuedTime": "2024-05-03T17:03:33.8380000Z"
+		}
+	},
+	{
+		"temperature": 30.209286452827918,
+		"humidity": 64.42840014492597,
+		"EventProcessedUtcTime": "2024-05-03T17:04:04.5947646Z",
+		"PartitionId": 1,
+		"EventEnqueuedUtcTime": "2024-05-03T17:03:35.9000000Z",
+		"IoTHub": {
+			"MessageId": null,
+			"CorrelationId": null,
+			"ConnectionDeviceId": "Iot-Raspberry",
+			"ConnectionDeviceGenerationId": "638500895488355425",
+			"EnqueuedTime": "2024-05-03T17:03:35.8120000Z"
+		}
+	},
+	{
+		"temperature": 21.014556569246825,
+		"humidity": 65.89867831316622,
+		"EventProcessedUtcTime": "2024-05-03T17:04:04.5947937Z",
+		"PartitionId": 1,
+		"EventEnqueuedUtcTime": "2024-05-03T17:03:37.9150000Z",
+		"IoTHub": {
+			"MessageId": null,
+			"CorrelationId": null,
+			"ConnectionDeviceId": "Iot-Raspberry",
+			"ConnectionDeviceGenerationId": "638500895488355425",
+			"EnqueuedTime": "2024-05-03T17:03:37.8300000Z"
+		}
+	},
+	{
+		"temperature": 22.815801980556877,
+		"humidity": 69.93610252503989,
+		"EventProcessedUtcTime": "2024-05-03T17:04:04.5948227Z",
+		"PartitionId": 1,
+		"EventEnqueuedUtcTime": "2024-05-03T17:03:39.2910000Z",
+		"IoTHub": {
+			"MessageId": null,
+			"CorrelationId": null,
+			"ConnectionDeviceId": "Iot-Raspberry",
+			"ConnectionDeviceGenerationId": "638500895488355425",
+			"EnqueuedTime": "2024-05-03T17:03:39.2150000Z"
+		}
+	},
+	{
+		"temperature": 31.035975836623674,
+		"humidity": 64.36445725038483,
+		"EventProcessedUtcTime": "2024-05-03T17:04:04.5948510Z",
+		"PartitionId": 1,
+		"EventEnqueuedUtcTime": "2024-05-03T17:03:41.5250000Z",
+		"IoTHub": {
+			"MessageId": null,
+			"CorrelationId": null,
+			"ConnectionDeviceId": "Iot-Raspberry",
+			"ConnectionDeviceGenerationId": "638500895488355425",
+			"EnqueuedTime": "2024-05-03T17:03:41.4560000Z"
+		}
+	},
+	{
+		"temperature": 31.123429663200277,
+		"humidity": 79.80093748649216,
+		"EventProcessedUtcTime": "2024-05-03T17:04:04.5948792Z",
+		"PartitionId": 1,
+		"EventEnqueuedUtcTime": "2024-05-03T17:03:43.2900000Z",
+		"IoTHub": {
+			"MessageId": null,
+			"CorrelationId": null,
+			"ConnectionDeviceId": "Iot-Raspberry",
+			"ConnectionDeviceGenerationId": "638500895488355425",
+			"EnqueuedTime": "2024-05-03T17:03:43.2000000Z"
+		}
+	},
+	{
+		"temperature": 30.526556856938843,
+		"humidity": 61.61273836609911,
+		"EventProcessedUtcTime": "2024-05-03T17:04:04.5949070Z",
+		"PartitionId": 1,
+		"EventEnqueuedUtcTime": "2024-05-03T17:03:45.2120000Z",
+		"IoTHub": {
+			"MessageId": null,
+			"CorrelationId": null,
+			"ConnectionDeviceId": "Iot-Raspberry",
+			"ConnectionDeviceGenerationId": "638500895488355425",
+			"EnqueuedTime": "2024-05-03T17:03:45.1320000Z"
+		}
+	},
+	{
+		"temperature": 30.339322895230353,
+		"humidity": 78.11003539220604,
+		"EventProcessedUtcTime": "2024-05-03T17:04:04.5949416Z",
+		"PartitionId": 1,
+		"EventEnqueuedUtcTime": "2024-05-03T17:03:47.1970000Z",
+		"IoTHub": {
+			"MessageId": null,
+			"CorrelationId": null,
+			"ConnectionDeviceId": "Iot-Raspberry",
+			"ConnectionDeviceGenerationId": "638500895488355425",
+			"EnqueuedTime": "2024-05-03T17:03:47.1090000Z"
+		}
+	},
+	{
+		"temperature": 24.379985773581975,
+		"humidity": 73.76815243098966,
+		"EventProcessedUtcTime": "2024-05-03T17:04:04.5949709Z",
+		"PartitionId": 1,
+		"EventEnqueuedUtcTime": "2024-05-03T17:03:49.3060000Z",
+		"IoTHub": {
+			"MessageId": null,
+			"CorrelationId": null,
+			"ConnectionDeviceId": "Iot-Raspberry",
+			"ConnectionDeviceGenerationId": "638500895488355425",
+			"EnqueuedTime": "2024-05-03T17:03:49.2230000Z"
+		}
+	},
+	{
+		"temperature": 30.450528729789227,
+		"humidity": 61.29974808386757,
+		"EventProcessedUtcTime": "2024-05-03T17:04:04.5950009Z",
+		"PartitionId": 1,
+		"EventEnqueuedUtcTime": "2024-05-03T17:03:51.9000000Z",
+		"IoTHub": {
+			"MessageId": null,
+			"CorrelationId": null,
+			"ConnectionDeviceId": "Iot-Raspberry",
+			"ConnectionDeviceGenerationId": "638500895488355425",
+			"EnqueuedTime": "2024-05-03T17:03:51.8120000Z"
+		}
+	},
+	{
+		"temperature": 25.007635366315426,
+		"humidity": 73.46109013733872,
+		"EventProcessedUtcTime": "2024-05-03T17:04:04.5950307Z",
+		"PartitionId": 1,
+		"EventEnqueuedUtcTime": "2024-05-03T17:03:54.1360000Z",
+		"IoTHub": {
+			"MessageId": null,
+			"CorrelationId": null,
+			"ConnectionDeviceId": "Iot-Raspberry",
+			"ConnectionDeviceGenerationId": "638500895488355425",
+			"EnqueuedTime": "2024-05-03T17:03:54.0510000Z"
+		}
+	},
+	{
+		"temperature": 29.249283200212645,
+		"humidity": 62.15623886840264,
+		"EventProcessedUtcTime": "2024-05-03T17:04:04.5950600Z",
+		"PartitionId": 1,
+		"EventEnqueuedUtcTime": "2024-05-03T17:03:55.8540000Z",
+		"IoTHub": {
+			"MessageId": null,
+			"CorrelationId": null,
+			"ConnectionDeviceId": "Iot-Raspberry",
+			"ConnectionDeviceGenerationId": "638500895488355425",
+			"EnqueuedTime": "2024-05-03T17:03:55.7620000Z"
+		}
+	},
+	{
+		"temperature": 27.609117713620947,
+		"humidity": 64.44780092739269,
+		"EventProcessedUtcTime": "2024-05-03T17:04:04.5950882Z",
+		"PartitionId": 1,
+		"EventEnqueuedUtcTime": "2024-05-03T17:03:57.8540000Z",
+		"IoTHub": {
+			"MessageId": null,
+			"CorrelationId": null,
+			"ConnectionDeviceId": "Iot-Raspberry",
+			"ConnectionDeviceGenerationId": "638500895488355425",
+			"EnqueuedTime": "2024-05-03T17:03:57.7710000Z"
+		}
+	},
+	{
+		"temperature": 23.427007407250017,
+		"humidity": 60.36096316288513,
+		"EventProcessedUtcTime": "2024-05-03T17:04:04.5951163Z",
+		"PartitionId": 1,
+		"EventEnqueuedUtcTime": "2024-05-03T17:03:59.8540000Z",
+		"IoTHub": {
+			"MessageId": null,
+			"CorrelationId": null,
+			"ConnectionDeviceId": "Iot-Raspberry",
+			"ConnectionDeviceGenerationId": "638500895488355425",
+			"EnqueuedTime": "2024-05-03T17:03:59.7730000Z"
+		}
+	},
+	{
+		"temperature": 21.814700508205423,
+		"humidity": 67.08803601305843,
+		"EventProcessedUtcTime": "2024-05-03T17:04:04.5951465Z",
+		"PartitionId": 1,
+		"EventEnqueuedUtcTime": "2024-05-03T17:04:01.1990000Z",
+		"IoTHub": {
+			"MessageId": null,
+			"CorrelationId": null,
+			"ConnectionDeviceId": "Iot-Raspberry",
+			"ConnectionDeviceGenerationId": "638500895488355425",
+			"EnqueuedTime": "2024-05-03T17:04:01.1080000Z"
+		}
+	},
+	{
+		"temperature": 26.746661014711506,
+		"humidity": 69.89662831045266,
+		"EventProcessedUtcTime": "2024-05-03T17:04:04.5951772Z",
+		"PartitionId": 1,
+		"EventEnqueuedUtcTime": "2024-05-03T17:04:03.2770000Z",
+		"IoTHub": {
+			"MessageId": null,
+			"CorrelationId": null,
+			"ConnectionDeviceId": "Iot-Raspberry",
+			"ConnectionDeviceGenerationId": "638500895488355425",
+			"EnqueuedTime": "2024-05-03T17:04:03.1970000Z"
+		}
+	},
+	{
+		"temperature": 26.09838853177038,
+		"humidity": 71.37521861759146,
+		"EventProcessedUtcTime": "2024-05-03T17:04:06.0631616Z",
+		"PartitionId": 1,
+		"EventEnqueuedUtcTime": "2024-05-03T17:04:05.9180000Z",
+		"IoTHub": {
+			"MessageId": null,
+			"CorrelationId": null,
+			"ConnectionDeviceId": "Iot-Raspberry",
+			"ConnectionDeviceGenerationId": "638500895488355425",
+			"EnqueuedTime": "2024-05-03T17:04:05.8240000Z"
+		}
+	},
+	{
+		"temperature": 29.700084649826113,
+		"humidity": 71.74274597260552,
+		"EventProcessedUtcTime": "2024-05-03T17:04:08.0620511Z",
+		"PartitionId": 1,
+		"EventEnqueuedUtcTime": "2024-05-03T17:04:07.8870000Z",
+		"IoTHub": {
+			"MessageId": null,
+			"CorrelationId": null,
+			"ConnectionDeviceId": "Iot-Raspberry",
+			"ConnectionDeviceGenerationId": "638500895488355425",
+			"EnqueuedTime": "2024-05-03T17:04:07.8100000Z"
+		}
+	}
+]
